@@ -1,5 +1,5 @@
 <?php include "../auth/auth.php";?>
-
+<?php include "authentication.php";?>
 <html>
 
 <head>

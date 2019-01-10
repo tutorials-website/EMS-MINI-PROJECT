@@ -10,6 +10,7 @@ if(!$conn){
 	die("Database connection error");
 }
 
+
 if(!isset($_SESSION['auth']))
 {	
 header('Location:../login.php');	
